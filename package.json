@@ -29,7 +29,7 @@
     "@angular/platform-browser": "10.2.3",
     "@angular/platform-browser-dynamic": "10.2.3",
     "@angular/router": "10.2.3",
-    "body-parser": "1.19.0",
+    "body-parser": "1.20.8",
     "core-js": "2.6.11",
     "cypress": "3.8.3",
     "express": "4.17.1",
