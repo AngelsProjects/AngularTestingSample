@@ -33,7 +33,7 @@
     "core-js": "2.6.12",
     "cypress": "3.8.3",
     "express": "4.17.1",
-    "http-server": "0.12.3",
+    "http-server": "0.13.0",
     "moment": "2.29.1",
     "npm-run-all2": "5.0.0",
     "rxjs": "6.5.4",
